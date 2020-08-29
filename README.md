@@ -7,4 +7,4 @@ Paint Java Script
 - [x] Draw
 - [ ] Socket IO
 
-![scrrensh](./img/img.png)
+![scrrensh](https://github.com/lsh3163/PaintJS/tree/master/img)
